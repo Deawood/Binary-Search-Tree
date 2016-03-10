@@ -1,8 +1,6 @@
 # Binary-Search-Tree
 
-I created this Binary Search Tree (BST) for a Data Structures class I took.
-This program is designed to store items in such a way to allow fast addition, removal and lookup of
-items in it.
+I developed a program that produces the word to be placed in the root of a binary search tree, which is optimal relative to the words and search frequencies given as input.
 
 To compile this program in mac terminal use "clang++ -std=c++14 -o bst BST.cpp" 
-Then enter "./bst < Name-of-maze-text-file-here.txt"
+Then enter "./bst < Name-of-input-file.txt"
